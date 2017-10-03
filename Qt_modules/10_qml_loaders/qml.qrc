@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Tux.svg.png</file>
+        <file>RectPage.qml</file>
+        <file>ImagePage.qml</file>
+        <file>colors.js</file>
+        <file>main.js</file>
+    </qresource>
+</RCC>
